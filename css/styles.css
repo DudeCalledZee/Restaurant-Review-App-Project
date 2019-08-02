@@ -195,6 +195,7 @@ nav h1 a {
   top: 0;
   width: 100%;
   z-index: 1000;
+	height: 80px;
 }
 .inside #map-container {
   background: blue none repeat scroll 0 0;
@@ -214,6 +215,7 @@ nav h1 a {
   position: absolute;
   width: 100%;
 }
+
 
 #restaurant-container{
 	display: flex;
