@@ -299,7 +299,7 @@ nav h1 a {
 
 /*================ media Query ========= */
 @media only screen and (max-width: 1200px) {
-	#reviews-container {
+	#restaurant-container, #reviews-container {
 		padding: 10px;
 	}
 }
